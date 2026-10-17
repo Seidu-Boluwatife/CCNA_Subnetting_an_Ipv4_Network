@@ -95,7 +95,7 @@ CustomerRouter(config-if)# end
 CustomerRouter# copy running-config startup-config
 ```
 
-![CustomerRouter configuration](images/router-config.png)
+![CustomerRouter configuration](routerconfig.png)
 
 ### LAN-A Switch
 
